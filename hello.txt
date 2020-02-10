@@ -1,0 +1,7 @@
+Welcome
+
+Java mainly depends on OOPS concept
+1.Inheritance
+2.Abstraction
+3.Encapsulation
+4.Polymorphism
