@@ -5,3 +5,10 @@ Java mainly depends on OOPS concept
 2.Abstraction
 3.Encapsulation
 4.Polymorphism
+class Program
+{
+public static void main(String[] args)
+{
+System.out.println("hello world");
+}
+}
